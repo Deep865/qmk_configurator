@@ -56,11 +56,8 @@ const lookup = {
   'cmm_studio/saka68': {
     target: 'cmm_studio/saka68/solder'
   },
-  'crkbd/rev1/legacy': {
-    target: 'crkbd/rev1'
-  },
-  'crkbd/rev1/common': {
-    target: 'crkbd/rev1'
+  'crkbd/rev1': {
+    target: 'crkbd/rev1/legacy'
   },
   'doro67/multi': {
     layouts: {
